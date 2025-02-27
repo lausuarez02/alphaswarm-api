@@ -4,6 +4,36 @@ AlphaSwarm is a starter kit for building LLM-powered AI agents that interpret na
 
 ## Features
 
+### VCMilei Dashboard & 3D Integration
+
+- 🎮 Interactive 3D AI Assistant
+  - Real-time WebGL-powered 3D avatar rendering
+  - WebSocket-based bidirectional communication for instant responses
+  - Natural language processing via Claude 3.5 Sonnet
+  - Speech-to-text and text-to-speech capabilities using Web Speech API
+  - Dynamic emotion and gesture system for lifelike interactions
+
+- 🌐 3D Investment Visualization
+  - Three.js-powered real-time portfolio visualization
+  - Dynamic market data representation using WebGL shaders
+  - Interactive 3D charts and graphs with D3.js integration
+  - Real-time price feeds and market indicators
+  - Custom shader-based visual effects for market trends
+
+- 🏗️ Property & Story IP Generation
+  - Procedural 3D property generation using Three.js
+  - Real-time asset value visualization
+  - Dynamic story IP creation with AI-powered narrative generation
+  - Interactive property customization and management
+  - WebGL-based property showcase and virtual tours
+
+- 🔊 Voice Integration
+  - Real-time voice command processing
+  - Multi-language support via Web Speech API
+  - Natural language understanding for trading commands
+  - Voice-activated portfolio management
+  - Customizable voice recognition patterns
+
 ### AI-Powered Trading with Agents
 
 - 🤖 LLM-powered agents capable of processing complex, unstructured signals for trading decisions
@@ -31,6 +61,46 @@ AlphaSwarm is a starter kit for building LLM-powered AI agents that interpret na
   - DEX integrations
   - On-chain data providers
 - 🔌 Easy integration of new data sources and execution venues
+
+### VCMilei Integration Features
+
+- 🤝 Seamless connection with VCMilei dashboard
+- 💼 Investment portfolio visualization in 3D
+- 🏗️ Real-time property generation and visualization
+- 📚 Story IP creation and management
+- 🗣️ Voice-enabled trading commands
+- 📊 3D market data visualization
+- 🤖 Interactive AI assistant with personality
+
+### VCMilei Integration Technical Stack
+
+- 🖥️ Frontend Technologies
+  - Three.js for 3D rendering
+  - WebGL 2.0 for advanced graphics
+  - React Three Fiber for React integration
+  - WebSocket for real-time communication
+  - Web Speech API for voice features
+
+- 🔧 Backend Integration
+  - FastAPI endpoints for AI communication
+  - WebSocket servers for real-time updates
+  - Redis for state management
+  - PostgreSQL for persistent storage
+  - JWT authentication for secure access
+
+- 🤖 AI Components
+  - Claude 3.5 Sonnet for natural language processing
+  - Custom ML models for market analysis
+  - Real-time sentiment analysis
+  - Automated trading strategy execution
+  - Dynamic personality adaptation
+
+- 📊 Data Processing
+  - Real-time market data integration
+  - Custom WebGL shaders for data visualization
+  - Automated technical analysis
+  - Portfolio performance tracking
+  - Risk assessment algorithms
 
 ### Roadmap
 
